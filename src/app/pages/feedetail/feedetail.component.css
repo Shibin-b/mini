@@ -1,0 +1,33 @@
+.wrapper {
+    width: auto;
+    height: auto;
+}
+
+#circle {
+width: 25px;
+height: 25px;
+border-radius: 100px;
+border: 1px solid #86d812;
+position: relative;
+
+}
+
+div {
+    background-color: rgb(240, 252, 255);
+    }
+p {
+    color: rgb(41, 41, 45);
+    text-indent: 30px;
+    }
+card{
+    margin: 0.4em;
+}
+    
+.vertical-line{
+    width: 2px;
+    height: 100px;
+    background: #86d812;
+    padding: 0px;
+    border-radius: 100px;
+    position: relative;
+}
